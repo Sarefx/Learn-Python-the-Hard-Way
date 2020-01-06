@@ -1,0 +1,3 @@
+I wrote new line
+And this line
+And finish with this line
